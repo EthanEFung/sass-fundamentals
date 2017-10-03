@@ -14,6 +14,7 @@
     margin-left: 220px;
     min-height: 100vh;
     border-left: 2px solid #333;
+    border-right: 2px solid #333;
   }
 
   .sidebar {
@@ -28,6 +29,8 @@
     .main {
       margin-right: 220px;
       margin-left: 0px;
+      // border-left: "none";
+      // border-right: 2px solid #333;
     }
   }
 }
